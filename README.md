@@ -1,2 +1,2 @@
 # Horiseongit
-Horiseon webpage refractor
+Horiseon webpage refractoring. 
